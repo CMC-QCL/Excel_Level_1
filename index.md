@@ -1,36 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CMC-QCL/Excel_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#QCL Excel (Level 1 - Data) Workshop
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Summary
 
-### Markdown
+Microsoft Excel is a spreadsheet program that is part of the Microsoft Office Suite. It is useful for calculations, making simple charts and data recording for different business processes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Purpose
+The 2 hour workshop is intended to introduce some basic features and functions to audience with little or no previous Excel experience.
 
-```markdown
-Syntax highlighted code block
+#Prerequisite
+Attendees are asked to have local installation of the Microsoft Excel or access to Excel Online through Office on their own computers for the workshop.
 
-# Header 1
-## Header 2
-### Header 3
+#Agenda
+The workshop covers
 
-- Bulleted
-- List
+Data analysis: sort, filter and conditional formatting
+Few useful keyboard shortcuts
+VLOOKUP (exact match)
+Pivot table and chart
 
-1. Numbered
-2. List
+#References
 
-**Bold** and _Italic_ and `Code` text
+Covid-19 data set
+Broadway data set
 
-[Link](url) and ![Image](src)
-```
+#Workshop creation by Cindy Cheng, QCL Grad Fellow (07-06-20)
+#Workshop update by Vanessa Casillas, QCL Grad Fellow (01-26-22)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CMC-QCL/Excel_1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
