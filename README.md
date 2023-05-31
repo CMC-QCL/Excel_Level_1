@@ -16,7 +16,6 @@ The workshop covers
     Data analysis: sort, filter and conditional formatting
     Few useful keyboard shortcuts
     VLOOKUP (exact match)
-    Pivot table and chart
 
 #**References** <br>
 
