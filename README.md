@@ -13,13 +13,16 @@ Attendees are asked to have local installation of the Microsoft Excel or access 
 #**Agenda** <br>
 The workshop covers
 
-    Data analysis: sort, filter and conditional formatting
-    Few useful keyboard shortcuts
-    VLOOKUP (exact match)
+    - Learn how to move around the Excel Environment   
+    - Learn how to move data around with Sort  
+    - Learn how to highlight and hide data with Filter and Conditional Formatting  
+    - Make a simple search feature with VLOOKUP (exact match)  
+    - Make simple Calculations about your data  
+    - Put data in bins for visuals with Frequency  
 
 #**References** <br>
 
-    Covid-19 data set
+    Covid-19 data set  
     Broadway data set
 
 #Workshop creation by Cindy Cheng, QCL Grad Fellow (07-06-20) <br>
