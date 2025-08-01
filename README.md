@@ -32,6 +32,6 @@ If you need to cancel, please do so earlier rather than later to give others a c
 ## Ticket Cancellation and No-Show Policy:
 If you need to cancel your reservation, please contact us by email at qcl@cmc.edu at least 24 hours prior to the event. A prompt cancellation will help us contact the next person on the waitlist. In case of 2 or more no-shows (without cancellation), you will lose your privilege to take our free workshops during the semester.
 
-# Workshop creation by Cindy Cheng, QCL Grad Fellow (07-06-20) <br>
-# Workshop update by Vanessa Casillas, QCL Grad Fellow (01-26-22)
+#Workshop creation by Cindy Cheng, QCL Grad Fellow (07-06-20) <br>
+#Workshop update by Vanessa Casillas, QCL Grad Fellow (01-26-22)
 
